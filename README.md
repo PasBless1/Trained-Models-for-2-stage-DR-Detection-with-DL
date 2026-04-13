@@ -1,5 +1,10 @@
 # Hierarchical Deep Learning Framework for Explainable Diabetic Retinopathy Detection
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Conference](https://img.shields.io/badge/Status-Under%20Review-yellow)]()
+
 About This Repository
 This repository releases the trained model weights and inference code for a two-stage hierarchical deep learning framework for automated Diabetic Retinopathy (DR) detection and severity grading from color retinal fundus images, developed as part of a Master's thesis in Digital Health at the Deggendorf Institute of Technology, Germany, and submitted for publication at an international conference.
 
