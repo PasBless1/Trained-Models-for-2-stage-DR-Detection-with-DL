@@ -6,7 +6,7 @@
 [![Conference](https://img.shields.io/badge/Status-Under%20Review-yellow)]()
 
 About This Repository
-This repository releases the trained model weights and inference code for a two-stage hierarchical deep learning framework for automated Diabetic Retinopathy (DR) detection and severity grading from color retinal fundus images, developed as part of a Master's thesis in Digital Health at the Deggendorf Institute of Technology, Germany, and submitted for publication at an international conference.
+This repository releases the trained model weights and inference code for a two-stage hierarchical deep learning framework for automated Diabetic Retinopathy (DR) detection and severity grading from color retinal fundus images.
 
 The problem: Conventional flat multiclass classifiers struggle to distinguish adjacent DR severity grades, particularly the mild-to-moderate NPDR boundary, achieving multiclass AUC values as low as 0.75–0.85 and per-class sensitivities for Mild NPDR below 40%.
 
